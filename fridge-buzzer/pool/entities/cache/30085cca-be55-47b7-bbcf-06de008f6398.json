@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "9103a2b4-9dd5-4e63-a9af-60ae35ce7cf4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "05ec187b-6e4a-4782-971b-af4837c8f13e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Magnetic sensor (push/pull output)",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "30085cca-be55-47b7-bbcf-06de008f6398"
+}

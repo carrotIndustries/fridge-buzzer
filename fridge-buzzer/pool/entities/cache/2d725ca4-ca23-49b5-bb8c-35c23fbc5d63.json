@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "964d798c-7f84-47d5-9aab-90492c311699"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "MSP430G2x32IPW14",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu",
+        "msp430"
+    ],
+    "type": "entity",
+    "uuid": "2d725ca4-ca23-49b5-bb8c-35c23fbc5d63"
+}

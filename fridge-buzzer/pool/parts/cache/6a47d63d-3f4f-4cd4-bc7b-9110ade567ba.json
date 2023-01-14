@@ -1,0 +1,92 @@
+{
+    "MPN": [
+        false,
+        "MSP430G2x32IPW14"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/msp430g2232"
+    ],
+    "description": [
+        false,
+        "Mixed-signal microcontroller"
+    ],
+    "entity": "2d725ca4-ca23-49b5-bb8c-35c23fbc5d63",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "12001aad-23c9-46d2-bfdb-75ffd2479776",
+    "pad_map": {
+        "261fe7ff-1e20-45bc-b96f-0733c16960c4": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "a671b780-afc8-4f55-a269-42f593db6646"
+        },
+        "427439e3-355e-4c65-a502-338cba5d0f4b": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "dc78baf4-3385-4b5e-8696-b02b5853c10a"
+        },
+        "46ab3d42-b140-4167-939f-00bebcccfc22": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "e8b97456-6785-4caa-907e-34ed06383544"
+        },
+        "48201ebb-e791-4c91-9bdb-fc069831ade8": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "4bc5be59-1cc9-47c7-bd65-f3ab8603ff1f"
+        },
+        "5ea90398-774b-43ec-bd14-db28ef507b64": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "fd6a50c8-e9bd-49a8-a15c-ba47dcb06ddc"
+        },
+        "64731022-0d14-4c0a-996c-3eed9f417c00": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "4f64f3cc-1b69-4e60-9433-82f3471a3eef"
+        },
+        "6e7efadb-0a82-4a26-8965-513d6ff56219": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "5f7d15d9-d79a-4db6-8254-7899addb4fc8"
+        },
+        "af643901-6c38-4b1b-b30c-371212d093f7": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "4a537bc9-2477-4f68-a714-9f6fdc2f1d90"
+        },
+        "b37a46a0-e07e-45ef-87df-bfcbf5f5bf8e": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "45597b53-4afb-4dde-a2bf-7a4d69280eac"
+        },
+        "bf768b4b-3c62-4f52-ac68-910ef1896730": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "e9061ff7-9410-45b9-9f1d-2ce7c2015701"
+        },
+        "e63a42e9-c280-4bc3-bf38-968baa5264c1": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "2c42340c-16ef-457d-8f30-8a7a6d84ace7"
+        },
+        "e7483de8-0fee-46dc-a2d6-76e13d0a4a35": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "22d28eb7-ea5a-4317-9fb2-68d39f712172"
+        },
+        "ea132ec2-ccad-48a6-8121-3aab161d5867": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "dce6bc96-0464-4622-ad0e-6c52cd756e7d"
+        },
+        "f0ed5f62-ebda-4736-9d7e-6894f8fb8421": {
+            "gate": "3533ed65-3ba9-42c5-aa6a-f5f4729d1e91",
+            "pin": "d6d3a19d-1520-4c24-b6b9-3726b7de0dc6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mcu",
+        "msp430"
+    ],
+    "type": "part",
+    "uuid": "6a47d63d-3f4f-4cd4-bc7b-9110ade567ba",
+    "value": [
+        false,
+        ""
+    ]
+}

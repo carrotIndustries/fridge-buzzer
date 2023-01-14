@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "2200RM"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata-ps.com/datasheet?/data/magnetics/kmp_2200rm.pdf"
+    ],
+    "description": [
+        false,
+        "Bobbin Wound Surface Mount Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata Power Solutions"
+    ],
+    "model": "a77ef661-52e0-4bd3-9351-3192f148dc02",
+    "package": "4d9115d3-2ea8-409f-9f04-a08e29b775b8",
+    "pad_map": {
+        "cff505da-3a38-40a7-89e7-61386fb7fd76": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "e464d856-f92d-4bc6-9a67-c2e469a20c28": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "da79eaa9-273f-45c4-a145-07e3a11280c0",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

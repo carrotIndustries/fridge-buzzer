@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Magnetic sensor (push/pull output)",
+    "pins": {
+        "046399df-f3a9-4b81-adc2-92248b2cd8a9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3887acba-712a-4d85-bd7e-5012fc07a936": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "ae8f1cd7-1977-4cf9-b43c-2cc5c9ffeb5a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "05ec187b-6e4a-4782-971b-af4837c8f13e"
+}

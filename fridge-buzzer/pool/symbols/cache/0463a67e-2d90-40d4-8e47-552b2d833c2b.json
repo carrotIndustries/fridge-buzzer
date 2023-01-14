@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "586f30b8-2903-4b4a-8134-7d299ade5999": {
+            "position": [
+                -6250000,
+                5000000
+            ]
+        },
+        "6c0c76da-ea71-43a3-b981-a557c5b13f60": {
+            "position": [
+                -6250000,
+                -5000000
+            ]
+        },
+        "7179d64f-bff2-4e5d-82e5-ace6fdd66a02": {
+            "position": [
+                6250000,
+                5000000
+            ]
+        },
+        "c1171833-e446-4e8a-adc7-e5032f4a62ca": {
+            "position": [
+                6250000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "7f72fade-32d1-47cb-87a8-7ad1c5cec2ea": {
+            "from": "586f30b8-2903-4b4a-8134-7d299ade5999",
+            "layer": 0,
+            "to": "7179d64f-bff2-4e5d-82e5-ace6fdd66a02",
+            "width": 0
+        },
+        "8b8ee7ba-d142-4078-a746-df1512c336e3": {
+            "from": "6c0c76da-ea71-43a3-b981-a557c5b13f60",
+            "layer": 0,
+            "to": "586f30b8-2903-4b4a-8134-7d299ade5999",
+            "width": 0
+        },
+        "ae64be8a-b7a0-4a5b-82c7-0376d3440a1a": {
+            "from": "7179d64f-bff2-4e5d-82e5-ace6fdd66a02",
+            "layer": 0,
+            "to": "c1171833-e446-4e8a-adc7-e5032f4a62ca",
+            "width": 0
+        },
+        "fbf3b510-710f-483f-b2ba-775c1ac94ab5": {
+            "from": "c1171833-e446-4e8a-adc7-e5032f4a62ca",
+            "layer": 0,
+            "to": "6c0c76da-ea71-43a3-b981-a557c5b13f60",
+            "width": 0
+        }
+    },
+    "name": "Magnetic sensor (push/pull output)",
+    "pins": {
+        "046399df-f3a9-4b81-adc2-92248b2cd8a9": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "perpendicular",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -7500000
+            ]
+        },
+        "3887acba-712a-4d85-bd7e-5012fc07a936": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "perpendicular",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                7500000
+            ]
+        },
+        "ae8f1cd7-1977-4cf9-b43c-2cc5c9ffeb5a": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                8750000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "667c3045-692b-4409-9017-258070730984": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "e89b580b-c767-4904-9e91-3c99e45dd855": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "05ec187b-6e4a-4782-971b-af4837c8f13e",
+    "uuid": "0463a67e-2d90-40d4-8e47-552b2d833c2b"
+}

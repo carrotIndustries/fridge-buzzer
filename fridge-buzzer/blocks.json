@@ -1,0 +1,11 @@
+{
+    "blocks": {
+        "c0cd2241-be5d-403a-b619-633c9c04f01a": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        }
+    },
+    "top_block": "c0cd2241-be5d-403a-b619-633c9c04f01a",
+    "type": "blocks"
+}

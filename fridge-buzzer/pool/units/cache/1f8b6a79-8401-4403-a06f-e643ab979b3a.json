@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Polarized Piezo transducer",
+    "pins": {
+        "afe9f24e-eb96-4ffd-8027-74756d2d7a71": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "ba373da5-fb4c-4e58-b3f2-56e85cfc6f19": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1f8b6a79-8401-4403-a06f-e643ab979b3a"
+}

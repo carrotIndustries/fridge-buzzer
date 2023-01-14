@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "Magnetic sensor (push/pull output)"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "30085cca-be55-47b7-bbcf-06de008f6398",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "9103a2b4-9dd5-4e63-a9af-60ae35ce7cf4",
+            "pin": "046399df-f3a9-4b81-adc2-92248b2cd8a9"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "9103a2b4-9dd5-4e63-a9af-60ae35ce7cf4",
+            "pin": "3887acba-712a-4d85-bd7e-5012fc07a936"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "9103a2b4-9dd5-4e63-a9af-60ae35ce7cf4",
+            "pin": "ae8f1cd7-1977-4cf9-b43c-2cc5c9ffeb5a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "fdd7f053-08f0-4de9-bb74-303d43c8d9ad",
+    "value": [
+        false,
+        ""
+    ]
+}

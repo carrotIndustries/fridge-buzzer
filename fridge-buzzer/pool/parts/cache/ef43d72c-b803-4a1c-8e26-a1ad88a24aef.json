@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "FMMT455TA"
+    ],
+    "base": "9f408f5e-4497-4243-b273-cd91978e2177",
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/FMMT455.pdf"
+    ],
+    "description": [
+        false,
+        "NPN transistor 140V 1A"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ef43d72c-b803-4a1c-8e26-a1ad88a24aef",
+    "value": [
+        true,
+        "SOT-23 NPN transistor"
+    ]
+}

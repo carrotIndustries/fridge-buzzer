@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "22R106MC"
+    ],
+    "base": "da79eaa9-273f-45c4-a145-07e3a11280c0",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "Bobbin Wound Surface Mount Inductor 10 mH"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "dcr": "37.4",
+        "idc": "0.068",
+        "pmax": "0.1",
+        "table": "inductors",
+        "tolerance": "0.5",
+        "value": "0.01"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "61726c9c-42da-410f-9cd4-c2a1ad1fe140",
+    "value": [
+        false,
+        "10 m\u2126"
+    ]
+}

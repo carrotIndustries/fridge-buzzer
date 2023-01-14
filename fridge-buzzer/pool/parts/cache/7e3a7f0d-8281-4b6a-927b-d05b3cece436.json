@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "CPT-2207-95-SMT-TR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/pdf/cpt-2207-95-smt-tr.pdf"
+    ],
+    "description": [
+        false,
+        "Piezo Buzzer Transducer"
+    ],
+    "entity": "a31516d2-c37d-43d7-8499-6424ef55658f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "33e443fe-d1b3-4fba-b8fd-b9aa921a332b",
+    "package": "386293cc-a85c-448e-acd7-7b6c9c2d34db",
+    "pad_map": {
+        "4804949d-da47-4cdb-beab-4a587095ab2b": {
+            "gate": "49c5c6aa-d11a-4e64-b37d-8f5160ba13fb",
+            "pin": "afe9f24e-eb96-4ffd-8027-74756d2d7a71"
+        },
+        "9462956d-c86b-47ea-919d-3684207f6f80": {
+            "gate": "49c5c6aa-d11a-4e64-b37d-8f5160ba13fb",
+            "pin": "ba373da5-fb4c-4e58-b3f2-56e85cfc6f19"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "buzzer",
+        "piezo",
+        "transducer"
+    ],
+    "type": "part",
+    "uuid": "7e3a7f0d-8281-4b6a-927b-d05b3cece436",
+    "value": [
+        false,
+        ""
+    ]
+}

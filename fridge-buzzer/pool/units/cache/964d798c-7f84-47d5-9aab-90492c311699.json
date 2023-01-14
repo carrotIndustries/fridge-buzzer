@@ -1,0 +1,269 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "MSP430G2x32IPW14",
+    "pins": {
+        "22d28eb7-ea5a-4317-9fb2-68d39f712172": {
+            "alt_names": {
+                "0eb54403-4a59-4d2d-8cae-1d20050ca8d8": {
+                    "direction": "input",
+                    "name": "XIN"
+                },
+                "b4ad79a3-9077-4b44-8d8b-252ab79f8a07": {
+                    "direction": "output",
+                    "name": "TA0.1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P2.6",
+            "swap_group": 0
+        },
+        "2c42340c-16ef-457d-8f30-8a7a6d84ace7": {
+            "alt_names": {
+                "876b0360-a422-44d6-94d9-362298892ed3": {
+                    "direction": "output",
+                    "name": "ACLK"
+                },
+                "aee036c0-cb88-4761-834b-a0c889c3e3ef": {
+                    "direction": "input",
+                    "name": "TA0CLK"
+                },
+                "eafb1ef2-6139-42f1-b62e-bf12647d12e9": {
+                    "direction": "input",
+                    "name": "A0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.0",
+            "swap_group": 0
+        },
+        "45597b53-4afb-4dde-a2bf-7a4d69280eac": {
+            "alt_names": {
+                "2e06ceda-0c58-4b7e-8d66-4dad487f9815": {
+                    "direction": "bidirectional",
+                    "name": "TA0.0"
+                },
+                "95d5d476-8992-4919-94f1-2fa83c0dceb0": {
+                    "direction": "input",
+                    "name": "A1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.1",
+            "swap_group": 0
+        },
+        "4a537bc9-2477-4f68-a714-9f6fdc2f1d90": {
+            "alt_names": {
+                "11638dfd-6439-442c-ab60-a15569ce9403": {
+                    "direction": "input",
+                    "name": "A5"
+                },
+                "408b0c09-a546-4282-96a0-65732f314358": {
+                    "direction": "input",
+                    "name": "TMS"
+                },
+                "68ad29b8-6947-425f-8f18-a866925c5558": {
+                    "direction": "bidirectional",
+                    "name": "SCLK"
+                },
+                "e1d0417f-63ac-41af-bc67-65396abb5140": {
+                    "direction": "output",
+                    "name": "TA0.0"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.5",
+            "swap_group": 0
+        },
+        "4bc5be59-1cc9-47c7-bd65-f3ab8603ff1f": {
+            "alt_names": {
+                "1b1010f1-401f-4208-9d2b-423a33c7f3b9": {
+                    "direction": "input",
+                    "name": "NMI"
+                },
+                "83248cd3-cc98-4f6b-863b-aa4430907196": {
+                    "direction": "bidirectional",
+                    "name": "SBWTDIO"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RST",
+            "swap_group": 0
+        },
+        "4f64f3cc-1b69-4e60-9433-82f3471a3eef": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVCC",
+            "swap_group": 0
+        },
+        "5f7d15d9-d79a-4db6-8254-7899addb4fc8": {
+            "alt_names": {
+                "6e92d9fc-ac5f-4b07-8273-42ae780075d6": {
+                    "direction": "input",
+                    "name": "A2"
+                },
+                "e3e2dec0-80b5-4753-9cef-e62d8f7d298c": {
+                    "direction": "bidirectional",
+                    "name": "TA0.1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.2",
+            "swap_group": 0
+        },
+        "a671b780-afc8-4f55-a269-42f593db6646": {
+            "alt_names": {
+                "530a798f-c695-4e5c-b1d2-62621b2e4f48": {
+                    "direction": "output",
+                    "name": "ADC10CLK"
+                },
+                "765382e8-633f-4e93-bf7a-cfe0dc56589e": {
+                    "direction": "input",
+                    "name": "VREF-"
+                },
+                "a2cd1a48-388a-4a7d-a092-0acb88de4c89": {
+                    "direction": "input",
+                    "name": "A3"
+                },
+                "c4916ce8-c21b-4f7e-8890-f4779660dd60": {
+                    "direction": "input",
+                    "name": "VEREF"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.3",
+            "swap_group": 0
+        },
+        "d6d3a19d-1520-4c24-b6b9-3726b7de0dc6": {
+            "alt_names": {
+                "12878a8f-dfc3-42bb-afb4-6b906a6469d8": {
+                    "direction": "output",
+                    "name": "SMCLK"
+                },
+                "13f21656-0ed0-460f-912a-8b8ff265ccf9": {
+                    "direction": "input",
+                    "name": "VEREF+"
+                },
+                "4d0bb5af-88f9-4d05-a915-927d409d4410": {
+                    "direction": "bidirectional",
+                    "name": "TA0.2"
+                },
+                "5b10ac9d-29a7-48bb-be2b-b8a4e91e4ac3": {
+                    "direction": "input",
+                    "name": "VREF+"
+                },
+                "77d23a21-84bd-4016-a1f2-358b43edb323": {
+                    "direction": "input",
+                    "name": "A4"
+                },
+                "c2a3647a-c556-45bd-9892-53892b0512c0": {
+                    "direction": "input",
+                    "name": "TCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.4",
+            "swap_group": 0
+        },
+        "dc78baf4-3385-4b5e-8696-b02b5853c10a": {
+            "alt_names": {
+                "13751f59-4aa6-4994-9ba4-02ef93671c1c": {
+                    "direction": "output",
+                    "name": "XOUT"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P2.7",
+            "swap_group": 0
+        },
+        "dce6bc96-0464-4622-ad0e-6c52cd756e7d": {
+            "alt_names": {
+                "46cb371f-ad31-48d5-b157-5abdbc2b3639": {
+                    "direction": "input",
+                    "name": "SDI"
+                },
+                "840e1b69-d5ee-41be-802f-3fa2a3350d59": {
+                    "direction": "output",
+                    "name": "TDO"
+                },
+                "97462081-798e-4880-979a-dd0ce46a28e1": {
+                    "direction": "input",
+                    "name": "A7"
+                },
+                "9c1e3d0b-bd1f-41fd-9160-66c7281a9ec5": {
+                    "direction": "bidirectional",
+                    "name": "SDA"
+                },
+                "e6ccbe8d-f8f7-496c-841d-1fe2b934391e": {
+                    "direction": "input",
+                    "name": "TDI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.7",
+            "swap_group": 0
+        },
+        "e8b97456-6785-4caa-907e-34ed06383544": {
+            "alt_names": {
+                "0dedd225-5a73-4111-a2f3-c10ee4b9f6eb": {
+                    "direction": "input",
+                    "name": "TCLK"
+                },
+                "65ecdd59-a93f-42c6-a4ff-6abe398ada84": {
+                    "direction": "input",
+                    "name": "A6"
+                },
+                "6d4ee77a-f224-4d72-b335-e0a35ebb446c": {
+                    "direction": "output",
+                    "name": "SDO"
+                },
+                "9dc96a44-620c-429e-bc60-10c7be797f16": {
+                    "direction": "output",
+                    "name": "TA0.1"
+                },
+                "adbc1f76-9762-4d50-9d9b-e3a882cf3f41": {
+                    "direction": "bidirectional",
+                    "name": "SCL"
+                },
+                "baaadbe0-8c82-4d4a-b2eb-44e695b5548d": {
+                    "direction": "input",
+                    "name": "TDI"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "P1.6",
+            "swap_group": 0
+        },
+        "e9061ff7-9410-45b9-9f1d-2ce7c2015701": {
+            "alt_names": {
+                "5dc90b42-823a-4647-a2c3-f255ca13e3c5": {
+                    "direction": "input",
+                    "name": "SBWTCK"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "fd6a50c8-e9bd-49a8-a15c-ba47dcb06ddc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "DVSS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "964d798c-7f84-47d5-9aab-90492c311699",
+    "version": 1
+}

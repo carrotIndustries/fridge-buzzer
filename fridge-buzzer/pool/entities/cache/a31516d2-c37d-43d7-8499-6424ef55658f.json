@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "49c5c6aa-d11a-4e64-b37d-8f5160ba13fb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1f8b6a79-8401-4403-a06f-e643ab979b3a"
+        }
+    },
+    "manufacturer": "",
+    "name": "Polarized Piezo transducer",
+    "prefix": "LS",
+    "tags": [
+        "buzzer",
+        "piezo",
+        "transducer"
+    ],
+    "type": "entity",
+    "uuid": "a31516d2-c37d-43d7-8499-6424ef55658f"
+}

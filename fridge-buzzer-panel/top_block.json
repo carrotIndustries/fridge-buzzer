@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "c007998e-0d9b-4370-ace1-6f24b5ba1099",
+    "net_classes": {
+        "c007998e-0d9b-4370-ace1-6f24b5ba1099": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "lukas",
+        "date": "2022-10-03",
+        "project_name": "fridge-buzzer-panel",
+        "project_title": "fridge buzzer panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "029a74f9-a8ad-4c56-929c-f700fbbd98f8"
+}
